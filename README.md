@@ -1,4 +1,5 @@
-# Test
-<body>
-  <strong> im learning html so dont judge </strong>
-</body>
+<!DOCTYPE html>
+<html>
+  <head></head>
+  <body> <p> <strong> Hey </strong> <p>
+    </html>
