@@ -1,5 +1,6 @@
-<!DOCTYPE html>
-<html>
-  <head></head>
-  <body> <p> <strong> Hey </strong> <p>
-    </html>
+<!doctype HTML>
+<head>title=Test</head>
+<body>
+  <H1><strong> Hello World!</strong><H1>
+</body>
+</html>
